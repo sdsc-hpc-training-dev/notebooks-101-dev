@@ -7,7 +7,8 @@ Read the tutorial here:
 * Notebooks 101: https://hpc-training.sdsc.edu/notebooks-101-dev/
 * Expanse 101:   https://hpc-training.sdsc.edu/expanse-101/
 
-## Interactive Video Link: https://education.sdsc.edu/training/interactive/202012_running_jupyter_notebooks_on_expanse/index.html
+## Interactive Video Link: 
+https://education.sdsc.edu/training/interactive/202012_running_jupyter_notebooks_on_expanse/index.html
 This material was presented as part of a webinar presented on December 11, 2020.
 
 ## GitHub Repo to training material:
