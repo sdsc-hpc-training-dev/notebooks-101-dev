@@ -1,6 +1,7 @@
-
+---
+sort: 3
+---
 # Notebooks-101-DEV Tutorial
-
 
 Everything you need to know about running Jupyter Notebooks on HPC Systems at SDSC.
 Read the tutorial here: 
